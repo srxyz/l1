@@ -18,9 +18,9 @@
 #      test*.cpp pattern.
 
 # enables c++17 on CAEN
-PATH := /usr/um/gcc-6.2.0/bin:$(PATH)
-LD_LIBRARY_PATH := /usr/um/gcc-6.2.0/lib64
-LD_RUN_PATH := /usr/um/gcc-6.2.0/lib64
+#PATH := /usr/um/gcc-6.2.0/bin:$(PATH)
+#LD_LIBRARY_PATH := /usr/um/gcc-6.2.0/lib64
+#LD_RUN_PATH := /usr/um/gcc-6.2.0/lib64
 
 # TODO
 # Change EXECUTABLE to match the command name given in the project spec.
